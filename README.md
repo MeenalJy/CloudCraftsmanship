@@ -1,6 +1,6 @@
 # Terraform AWS Infrastructure with IAM, S3, and DynamoDB
 
-![Terraform](https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg)
+![Terraform](terraform.jpg)
 
 This repository contains Terraform configurations to provision AWS resources for IAM, S3, and DynamoDB. These resources are designed to showcase how to set up basic infrastructure as code on AWS using Terraform.
 
