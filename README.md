@@ -63,6 +63,7 @@ Additionally, we've added an item to this library. The item is a book titled "Du
 
 Please be aware that this repository provides a simplified example for learning and experimentation. In a production environment, security and best practices should be a top priority. Ensure you have proper IAM policies, bucket policies, and DynamoDB access controls in place.
 
-Enjoy exploring the magic of Terraform and AWS! ✨🪄
+Enjoy exploring the magic of Terraform and AWS! ✨
 
-If you have any questions or need assistance, feel free to reach out to the DevOps community. Keep learning and mastering the art of infrastructure as code! 🚀👩‍💻👨‍💻
+
+Keep learning and mastering the art of infrastructure as code! 🚀
